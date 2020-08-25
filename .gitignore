@@ -1,2 +1,11 @@
 big_dfs_saved/
 big_dfs_saved_08_09_2017_database.db
+backup_of_aug_and_sept_17.db
+dummy_database.db
+testing_d33f.csv
+trial_agg_df.csv
+trial_agg_df2.csv
+*.db
+*.csv
+
+
